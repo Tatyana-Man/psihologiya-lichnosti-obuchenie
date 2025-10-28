@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://psihologiya-lichnosti-obuchenie.vercel.app/sitemap.xml
